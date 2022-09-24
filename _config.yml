@@ -10,13 +10,13 @@ keywords: minimal academic
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 
-url: https://yanli.github.io # the base hostname & protocol for your site
-baseurl: /yanli # the subpath of your site, e.g. /blog/
+url: https://yanli-susan.github.io # the base hostname & protocol for your site
+baseurl: /yanli-susan # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://github.com/Cedric-Chan/yanli.github.io/blob/main/LiYan_cv.pdf
+google_scholar: https://github.com/Yanli-susan/yanli-susan.github.io/blob/main/LiYan_cv.pdf
 # github_link: https://github.com/yaoyao-liu/minimal-light
 
 # Images (e.g., your profile picture and your website's favicon) 
