@@ -1,6 +1,6 @@
 # Basic Information 
-title: Yan (Susan) Li
-position: Ph.D. Student
+title: Yan Li (李妍)
+position: Ph.D. Candidate
 affiliation: Department of Economics, National University of Singapore
 email: yzliyan (at) mail.ustc.edu.cn
 
@@ -10,11 +10,14 @@ keywords: minimal academic
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 
+url: https://yanli.github.io # the base hostname & protocol for your site
+baseurl: /yanli # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-CV: https://github.com/Cedric-Chan/yanli.github.io/blob/main/LiYan_cv.pdf
+google_scholar: https://github.com/Cedric-Chan/yanli.github.io/blob/main/LiYan_cv.pdf
+# github_link: https://github.com/yaoyao-liu/minimal-light
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -24,11 +27,11 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
