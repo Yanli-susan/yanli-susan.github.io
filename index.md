@@ -4,47 +4,47 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+- Hi, I am a Ph.D. student at University of Science and Technology of China, supervised by Prof. Jiuchang Wei.
+- As part of the NUS Doctoral Program, I am co-supervised by Prof. Songfa Zhong from National University of Singapore.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Primary:** Risk management, Consumer Psychology
+- **Secondary:** Online Communication, Social Media Behavior
 
-## News
+<font color=red>I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit.</font>
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- "The influence of font scale on semantic expression of word cloud," (with Jie Li, Kang Zhang).
+Accepted, Journal of Visualization, 2020.
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+## Revision
 
-## Services
+- **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an
+Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li). *Minor
+revision, Journal of Business Research.*
+- **Appealing or Knowledgeable: The Use of Streaming Video in Communicating COVID-19 Risk in
+China**, (with Jiuchang Wei, Shih-Kai Huang, Thomas Ryan Brindle). *Under review, Public
+Relations Review.*
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+
+## Working papers
+
+- **The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based
+cues**. *Prepare for submission; Target: Information Technology and People.*
+- **Head-start’s Curse in Long-Term Goal Pursuit**. *Draft ; Target: Journal of Consumer Research.*
+- **The impact of online communication on the polarization of opinions (based on live comments of
+streaming video)**. *Results present; Target: Public Management Review.*
+- **Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics
+during Covid-19)**. *Data analysis; Target: Journal of Information Technology.*
+
+
+## Conference
+
+- **How to Improve Semantics Understanding of Word Clouds**, *Proceedings of the 12th International
+Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
+- **The Use of Anthropomorphic Animation in Communicating COVID-19 Risk**, *Natural Hazards
+Workshop (2021, July).*
