@@ -48,3 +48,11 @@ during Covid-19)**. *Data analysis; Target: Journal of Information Technology.*
 Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
 - **The Use of Anthropomorphic Animation in Communicating COVID-19 Risk**, *Natural Hazards
 Workshop (2021, July).*
+
+
+## Ongoing projects
+
+- National Science Fund for Distinguished Young Scholars: Social Risk Analysis and Governance
+- Covid-19 Response, Management and Impact of Public Health
+- National Natural Science Foundation of China: Behaviour and Intervention
+- Joint Funding of Medical Project: Health Behavior Intervention of Different Groups
