@@ -14,10 +14,10 @@ layout: homepage
 
 <font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
-## Publications
+## Publication
 
-- "The influence of font scale on semantic expression of word cloud," (with Jie Li, Kang Zhang).
-Accepted, Journal of Visualization, 2020.
+- **The influence of font scale on semantic expression of word cloud**, (with Jie Li, Kang Zhang).
+*Accepted, Journal of Visualization, 2020.*
 
 
 ## Revision
@@ -49,7 +49,7 @@ Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, S
 Workshop (2021, July).*
 
 
-## Ongoing projects
+## Projects Participation
 
 - National Science Fund for Distinguished Young Scholars: Social Risk Analysis and Governance
 - Covid-19 Response, Management and Impact of Public Health
