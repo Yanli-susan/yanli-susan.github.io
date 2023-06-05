@@ -18,13 +18,13 @@ layout: homepage
 
 - **The influence of font scale on semantic expression of word cloud**, (with Jie Li, Kang Zhang).
 *Accepted, Journal of Visualization, 2020.*
+- **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an
+Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li). 
+*Accepted, Journal of Business Research, 2023.*
 
 
 ## Revision
 
-- **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an
-Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li). *Minor
-revision, Journal of Business Research.*
 - **Appealing or Knowledgeable: The Use of Streaming Video in Communicating COVID-19 Risk in
 China**, (with Jiuchang Wei, Shih-Kai Huang, Thomas Ryan Brindle). *Under review, Public
 Relations Review.*
