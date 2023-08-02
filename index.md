@@ -5,7 +5,8 @@ layout: homepage
 ## About Me
 
 - Hi, I am a Ph.D. student at University of Science and Technology of China, supervised by Prof. Jiuchang Wei.
-- As part of the NUS Doctoral Program, I am co-supervised by Prof. Songfa Zhong from National University of Singapore.
+- As part of the NUS Doctoral Program, I was co-supervised by Prof. Songfa Zhong in academic year 2021~2022.
+- I am now working as a research associate under Prof Sharon Ng from Nanyang Business School.
 
 ## Research Interests
 
