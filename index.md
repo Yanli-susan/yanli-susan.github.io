@@ -27,6 +27,7 @@ Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei
 *Accepted, Journal of Visualization, 2020.*
 
 
+
 ## Revision
 
 
