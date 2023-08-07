@@ -21,17 +21,13 @@ layout: homepage
 China**, (with Jiuchang Wei, Shih-Kai Huang, Thomas Ryan Brindle).
 *Accepted, Computers in Human Behavior, 2023.*
 - **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an
-Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li). 
+Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li).
 *Accepted, Journal of Business Research, 2023.*
 - **The influence of font scale on semantic expression of word cloud**, (with Jie Li, Kang Zhang).
-*Accepted, Journal of Visualization, 2020.*
+- *Accepted, Journal of Visualization, 2020.*
 
-
-
-
-
+  
 ## Working papers
-
 - **The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based
 cues**. *Prepare for submission; Target: Information Technology and People.*
 - **Head-start’s Curse in Long-Term Goal Pursuit**. *Draft ; Target: Journal of Consumer Research.*
