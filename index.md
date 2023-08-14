@@ -6,25 +6,25 @@ layout: homepage
 
 - Hi, I am a Ph.D. student at University of Science and Technology of China, supervised by Prof. Jiuchang Wei.
 - As part of the NUS Doctoral Program, I was co-supervised by Prof. Songfa Zhong in academic year 2021~2022.
-- I am now working as a research associate under Prof Sharon Ng from Nanyang Business School.
+- I am now working as a research assistant under Prof Sharon Ng in NBS from 2023.
 
 ## Research Interests
 
-- **Primary:** Risk management, Consumer Psychology
+- **Primary:** Risk Communication, Consumer Behavior
 - **Secondary:** Online Communication, Social Media Behavior
 
 <font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
 ## Publication
 
-- **Appealing or Knowledgeable: The Use of Streaming Video in Communicating COVID-19 Risk in
-China**, (with Jiuchang Wei, Shih-Kai Huang, Thomas Ryan Brindle).
-*Accepted, Computers in Human Behavior, 2023.*
+- **Appealing or Knowledgeable: What captures attention in the risk communication process: Exploring
+streaming video attractiveness during the first wave of the COVID-19 pandemic in China**,
+(with Jiuchang Wei, Shih-Kai Huang, Thomas Ryan Brindle). *Accepted, Computers in Human Behavior, 2023.*
 - **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an
 Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Jiuchang Wei, Yina Li).
 *Accepted, Journal of Business Research, 2023.*
 - **The influence of font scale on semantic expression of word cloud**, (with Jie Li, Kang Zhang).
-- *Accepted, Journal of Visualization, 2020.*
+*Accepted, Journal of Visualization, 2020.*
 
   
 ## Working papers
