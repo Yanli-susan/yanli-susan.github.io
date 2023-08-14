@@ -18,9 +18,9 @@ layout: homepage
 
 ## Publication
 
-- **Appealing or Knowledgeable: What captures attention in the risk communication process: Exploring streaming video attractiveness during the first wave of the COVID-19 pandemic in China**, (with Shih-Kai Huang, Thomas Ryan Brindle, Jiuchang Wei). *Accepted, Computers in Human Behavior, 2023.*
-- **CEO Public Apology after a Corporate Crisis: The Effects of Non-verbal and Verbal cues in an Apology on Firm's Social Disapproval**, (with Haipeng (Allan) Chen, Yina Li, Jiuchang Wei). *Accepted, Journal of Business Research, 2023.*
-- **The influence of font scale on semantic expression of word cloud**, (with Jie Li, Kang Zhang). *Accepted, Journal of Visualization, 2020.*
+- Li, Y., Huang, S. K., Wei, J., Brindle, T. R., & Lee, C. Y. (2023). What captures attention in the risk communication process: Exploring streaming video attractiveness during the first wave of the COVID-19 pandemic in China. *Computers in Human Behavior,* 107909.
+- Li, Y. N., Li, Y., Chen, H. A., & Wei, J. (2023). How verbal and non-verbal cues in a CEO apology for a corporate crisis affect a firm’s social disapproval. *Journal of Business Research, 167,* 114084.
+- Yang, L., Li, J., Lu, W., Chen, Y., Zhang, K., & Li, Y. (2020). The influence of font scale on semantic expression of word cloud. *Journal of Visualization, 23,* 981-998.
 
   
 ## Working papers
