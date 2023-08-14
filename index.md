@@ -10,8 +10,8 @@ layout: homepage
 
 ## Research Interests
 
-- **Primary:** Risk Communication, Consumer Behavior
-- **Secondary:** Online Communication, Social Media Behavior
+- **Primary:** Risk Communication, Social Media Behavior
+- **Secondary:** Health Behavior
 
 <font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
