@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-- Hi, I am a Ph.D. student at University of Science and Technology of China, supervised by Prof. Jiuchang Wei.
+- Hi, I am a Ph.D. candidate at University of Science and Technology of China since 2019, supervised by Prof. Jiuchang Wei.
 - As part of the NUS Doctoral Program, I was co-supervised by Prof. Songfa Zhong in academic year 2021~2022.
-- I am now working as a research assistant under Prof Sharon Ng in NBS from 2023.
+- I am currently working as a research assistant under Prof Sharon Ng at NBS since 2023.
 
 ## Research Interests
 
