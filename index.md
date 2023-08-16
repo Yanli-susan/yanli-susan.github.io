@@ -25,16 +25,16 @@ layout: homepage
   
 ## Working papers
 
-- **The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues**. *Prepare for submission; Target: Information Technology and People.*
-- **Head-start’s Curse in Long-Term Goal Pursuit**. *Draft ; Target: Journal of Consumer Research.*
-- **The impact of online communication on the polarization of opinions (based on live comments of streaming video)**. *Results present; Target: Public Management Review.*
-- **Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19)**. *Data analysis; Target: Journal of Information Technology.*
+- The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Prepare for submission; Target: Information Technology and People.*
+- Head-start’s Curse in Long-Term Goal Pursuit. *Draft ; Target: Journal of Consumer Research.*
+- The impact of online communication on the polarization of opinions (based on live comments of streaming video). *Results present; Target: Public Management Review.*
+- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis; Target: Journal of Information Technology.*
 
 
 ## Conference
 
-- **How to Improve Semantics Understanding of Word Clouds**, *Proceedings of the 12th International Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
-- **The Use of Anthropomorphic Animation in Communicating COVID-19 Risk**, *Natural Hazards Workshop (2021, July).*
+- How to Improve Semantics Understanding of Word Clouds, *Proceedings of the 12th International Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
+- The Use of Anthropomorphic Animation in Communicating COVID-19 Risk, *Natural Hazards Workshop (2021, July).*
 
 
 ## Projects Participation
