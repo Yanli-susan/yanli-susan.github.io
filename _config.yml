@@ -16,9 +16,9 @@ last_updated: false # set to true if you want to display last updated in the foo
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://github.com/Yanli-susan/yanli-susan.github.io/raw/main/LiYan_cv.pdf
+google_scholar: https://scholar.google.com/citations?user=OyN4cZIAAAAJ&hl=en
 cv_link: ./assets/LiYan_cv.pdf
-linkedin: https://www.linkedin.com/in/yan-li-263785232/
+# linkedin: https://www.linkedin.com/in/yan-li-263785232/
 # github_link: https://github.com/yaoyao-liu/minimal-light
 
 # Images (e.g., your profile picture and your website's favicon) 
