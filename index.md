@@ -6,14 +6,14 @@ layout: homepage
 
 - Hi, I am a Ph.D. candidate at University of Science and Technology of China since 2019, supervised by Prof. Jiuchang Wei.
 - As part of the NUS Doctoral Program, I was co-supervised by Prof. Songfa Zhong in academic year 2021~2022.
-- I am currently working as a research assistant under Prof Sharon Ng at NBS since 2023.
+- I am currently working as a research assistant under Prof. Elaine Chan, Elison Lim, Sharon Ng, and Soo Kim at NBS since May 2023.
 
 ## Research Interests
 
 - **Primary:** Risk Communication, Social Media Behavior
 - **Secondary:** Health Behavior
 
-<font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
+<font color=red> I am looking for a postdoc or research fellow position. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
 
 ## Publication
@@ -25,17 +25,16 @@ layout: homepage
   
 ## Working papers
 
-- The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Prepare for submission; Target: Information Technology and People.*
+- The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Draft; Target: Information Technology and People.*
 - Head-start’s Curse in Long-Term Goal Pursuit. *Draft ; Target: Journal of Consumer Research.*
-- The impact of online communication on the polarization of opinions (based on live comments of streaming video). *Results present; Target: Public Management Review.*
-- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis; Target: Journal of Information Technology.*
+- The impact of online communication on the polarization of opinions (based on live comments of streaming video). *Results present; Target: Computers in Human Behavior.*
+- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis*
 
 
 ## Conference
 
-- How to Improve Semantics Understanding of Word Clouds, *Proceedings of the 12th International Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
 - The Use of Anthropomorphic Animation in Communicating COVID-19 Risk, *Natural Hazards Workshop (2021, July).*
-
+- How to Improve Semantics Understanding of Word Clouds, *Proceedings of the 12th International Symposium on Visual Information Communication and Interaction (pp. 1-5) (2019, September).*
 
 ## Projects Participation
 
