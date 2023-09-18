@@ -14,7 +14,7 @@ layout: homepage
 - **Secondary:** Health Behavior
 
 <font color=red> I am looking for a postdoc or research fellow position. I would appreciate a ping if you see a job I might fit. </font> 
-<br/>
+
 
 ## Publication
 
