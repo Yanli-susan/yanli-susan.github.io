@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-- Hi, I am a M.Sc & Ph.D. candidate in Management Science and Engineering at University of Science and Technology of China since 2019, supervised by Prof. Jiuchang Wei.
-- As part of the NUS-USTC Doctoral Visting Program in Economics, I was supervised by Prof. Songfa Zhong in the academic year 2021~2022.
+- Hi, I am a Ph.D. candidate at University of Science and Technology of China since 2019, supervised by Prof. Jiuchang Wei.
+- As part of the NUS-USTC Visting Program, I was supervised by Prof. Songfa Zhong in the academic year 2021~2022.
 - I am currently working as a RA under Prof. Elaine Chan, Elison Lim, Sharon Ng, and Soo Kim at Nanyang Business School since May 2023.
 
 ## Research Interests
 
-- **Primary:** Risk and Crisis comunication, Cognitive and Behavioral Responses
-- **Secondary:** Social media behavior
+- **Primary:** Risk Communication, Social Media Behavior
+- **Secondary:** Health Behavior
 
 <font color=red> I am looking for a postdoc or research fellow position. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
@@ -28,7 +28,7 @@ layout: homepage
 - The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Draft; Target: Information Technology and People.*
 - Head-start’s Curse in Long-Term Goal Pursuit. *Draft ; Target: Journal of Consumer Research.*
 - The impact of online communication on the polarization of opinions (based on live comments of streaming video). *Results present; Target: Computers in Human Behavior.*
-- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis; Target: Journal of Information Technology.*
+- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis.*
 
 
 ## Conference
