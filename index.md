@@ -11,7 +11,7 @@ layout: homepage
 ## Research Interests
 
 - **Primary:** Risk Communication, Social Media Behavior
-- **Secondary:** Health Behavior
+- **Secondary:** Visual Communication
 
 <font color=red> I am looking for a postdoc or research fellow position. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
@@ -26,10 +26,10 @@ layout: homepage
   
 ## Working papers
 
-- The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Draft; Target: Information Technology and People.*
-- Head-start’s Curse in Long-Term Goal Pursuit. *Draft ; Target: Journal of Consumer Research.*
-- The impact of online communication on the polarization of opinions (based on live comments of streaming video). *Results present; Target: Computers in Human Behavior.*
-- Public opinion shift and the process of the topic evolvement (based on Weibo and Twitter topics during Covid-19). *Data analysis.*
+- The role of complaints in the context of recall: A Shannon Entropy measure of complaint-based cues. *Draft; Target: Information and Management.*
+- The impact of online interaction on opinion polarization (based on analysis and quantification of bullet screen (Danmu)). *Results.*
+- Dynamics of public opinion and topic evolution (based on Weibo and Covid-19 tweets). *Data analysis.*
+- Head-start’s Curse in Long-Term Goal Pursuit (based on health app behavior). *Draft; Target: Journal of Consumer Research.*
 
 
 ## Conference
