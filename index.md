@@ -41,5 +41,6 @@ layout: homepage
 
 ## Projects Participation
 
+- Dementia Project: Assessing Cognitive Function in the Elderly Through Games (2024)
 - COVID-19 Communication and Public Compliance (2022)
 - National Natural Science Foundation of China: Health Risk Management (2020)
