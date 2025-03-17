@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-- Hi, I am a Research Fellow at Nanyang Business School， supervised by Prof. Sharon Ng。
+- Hi, I am a Research Fellow at Nanyang Business School, supervised by Prof. Sharon Ng.
 - I received my Ph.D. in Management Science and Engineering from the University of Science and Technology of China in 2024.
 
 
@@ -41,6 +41,7 @@ layout: homepage
 
 ## Projects Participation
 
+- Financial Independence Project (CIMB): Perceptions of Financial Independence and the Role of Insurance and Financial Planning (2025)
 - Dementia Project: Assessing Cognitive Function in the Elderly Through Games (2024)
 - COVID-19 Communication and Public Compliance (2022)
 - National Natural Science Foundation of China: Health Risk Management (2020)
