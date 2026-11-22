@@ -6,9 +6,9 @@ email: y_li (at) ntu.edu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal academic
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+keywords: Yan Li, Susan Li, risk communication, consumer behavior, Nanyang Business School, Nanyang Technological University, research fellow
+description: Personal homepage of Yan (Susan) Li, Research Fellow at Nanyang Business School, NTU. Research on risk communication and consumer behavior.
+canonical: https://yanli-susan.github.io/
 
 url: https://yanli-susan.github.io # the base hostname & protocol for your site
 baseurl: /yanli-susan # the subpath of your site, e.g. /blog/
