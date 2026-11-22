@@ -11,7 +11,7 @@ description: Personal homepage of Yan (Susan) Li, Research Fellow at Nanyang Bus
 canonical: https://yanli-susan.github.io/
 
 url: https://yanli-susan.github.io # the base hostname & protocol for your site
-baseurl: /yanli-susan # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site; empty because this is a user site served at the root
 last_updated: false # set to true if you want to display last updated in the footer
 
 # Links 
